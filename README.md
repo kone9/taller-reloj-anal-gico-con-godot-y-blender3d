@@ -1,6 +1,8 @@
 # taller-relog-analogico-con-godot-y-blender3d
 Un relog analógico creado en blender3D y programado en Godot Engine
+
 itchio
+
 https://kone9.itch.io/taller-relog-analogico-con-godot-y-blender3d
 
 <a href='https://drive.google.com/file/d/1DIAYAv-GvVv5G-RtRYQcdfnFszmtUA89/view?usp=drive_open&amp;usp=embed_facebook&source=ctrlq.org'><img src='https://lh6.googleusercontent.com/khsd1DZuhefacMV6YOdCSMLKacecZpq2yWT18Rdb4GbVSvXHXe5RQdKHNQw=w2400' /></a>
